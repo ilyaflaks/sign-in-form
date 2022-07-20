@@ -1,5 +1,5 @@
 # Sign-In Form Created Using React and Formik
-<img src="signinform.png" /><img src="error.png" />
+<img src="signinform.png" width=100px/><img src="error.png" width=100px/>
 
 ## This is a reusable React component with a built-in email and password validation
 
